@@ -1,11 +1,7 @@
 // SPDX-License-Identifier: MIT
 
-// 0xCD006537aBe2177D297DC1C301aa60FB2381fC0b bsc final test
-// 0xe15cde69078a5ccFf4A686EC19cE0365ae97668E rinkeby final
-// 0xE743A706227d30131309a96c61409dd9764A95d4 matic final test
-// 0x12Dbbf2A3446fe7D6BBebD66B8d7a13C3B0C35B9 avax final test
-// 0xe15cde69078a5ccFf4A686EC19cE0365ae97668E cro final test
-// 0xE4Ec7257F47348507456803Be3068781f5D88369 ftm final test
+// This basic contract is designed to work with RyzrSwap
+// For assistance, please visit https://ryzr.app
 
 pragma solidity 0.8.15;
 
